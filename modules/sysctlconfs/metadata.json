@@ -1,8 +1,8 @@
 {
-  "name": "lusar-tcpwrapper",
+  "name": "lusar-sysctlconfs",
   "version": "0.0.1",
   "author": "w.luis.araujo@gmail.com",
-  "summary": "Modulo que cadastra /etc/hosts.{allow,deny}",
+  "summary": "Modulo que envia parametros para /etc/sysctl.d/",
   "license": "Apache-2.0",
   "source": "github.com/wluisaraujo/iac-puppet",
   "project_page": "https://github.com/wluisaraujo/iac-puppet",

@@ -7,7 +7,7 @@
   "source": "github.com/wluisaraujo/iac-puppet",
   "project_page": "https://github.com/wluisaraujo/iac-puppet",
   "issues_url": "https://github.com/wluisaraujo/iac-puppet/issues",
-  "dependencies": ,
+  "dependencies": null,
   "data_provider": null
 }
 
