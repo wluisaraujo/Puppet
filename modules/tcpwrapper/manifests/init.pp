@@ -1,7 +1,7 @@
-# Class: etchosts
+# Class: tcpwrapper
 # ===========================
 #
-# Full description of class etchosts here.
+# Full description of class tcpwrapper here.
 #
 # Parameters
 # ----------
@@ -28,7 +28,7 @@
 # --------
 #
 # @example
-#    class { 'etchosts':
+#    class { 'tcpwrapper':
 #      servers => [ 'pool.ntp.org', 'ntp.local.company.com' ],
 #    }
 #
@@ -42,8 +42,7 @@
 #
 # Copyright 2018 Your name here, unless otherwise noted.
 #
-class etchosts {
+class tcpwrapper {
 
-  contain etchosts::config
 
 }
