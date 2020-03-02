@@ -4,10 +4,9 @@
   "author": "w.luis.araujo",
   "summary": "Modulo para cadastrar o /etc/hosts",
   "license": "Apache-2.0",
-  "source": "github.com/wluisaraujo/iac-puppet",
-  "project_page": "https://github.com/wluisaraujo/iac-puppet",
-  "issues_url": "https://github.com/wluisaraujo/iac-puppet/issues",
+  "source": "github.com/wluisaraujo/puppet",
+  "project_page": "https://github.com/wluisaraujo/puppet",
+  "issues_url": "https://github.com/wluisaraujo/puppet/issues",
   "dependencies": null,
   "data_provider": null
 }
-
